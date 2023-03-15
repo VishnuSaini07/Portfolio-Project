@@ -267,3 +267,9 @@ section {
         width: 23rem !important;
     }
 }
+
+@media (max-width: 425px) {
+    #work .card {
+        width: 20rem !important;
+    }
+}
